@@ -1,0 +1,16 @@
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\bin\Debug\net5.0\rockpaperscissors.exe
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\bin\Debug\net5.0\rockpaperscissors.deps.json
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\bin\Debug\net5.0\rockpaperscissors.runtimeconfig.json
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\bin\Debug\net5.0\rockpaperscissors.runtimeconfig.dev.json
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\bin\Debug\net5.0\rockpaperscissors.dll
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\bin\Debug\net5.0\ref\rockpaperscissors.dll
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\bin\Debug\net5.0\rockpaperscissors.pdb
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\obj\Debug\net5.0\rockpaperscissors.csprojAssemblyReference.cache
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\obj\Debug\net5.0\rockpaperscissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\obj\Debug\net5.0\rockpaperscissors.AssemblyInfoInputs.cache
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\obj\Debug\net5.0\rockpaperscissors.AssemblyInfo.cs
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\obj\Debug\net5.0\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\obj\Debug\net5.0\rockpaperscissors.dll
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\obj\Debug\net5.0\ref\rockpaperscissors.dll
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\obj\Debug\net5.0\rockpaperscissors.pdb
+C:\Revature\cole-code\RockPaperSolution\rockpaperscissors\obj\Debug\net5.0\rockpaperscissors.genruntimeconfig.cache

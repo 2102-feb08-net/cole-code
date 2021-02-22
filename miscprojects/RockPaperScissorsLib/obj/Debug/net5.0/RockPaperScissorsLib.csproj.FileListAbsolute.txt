@@ -1,0 +1,12 @@
+C:\Revature\cole-code\RockPaperScissorsLib\obj\Debug\net5.0\RockPaperScissorsLib.csprojAssemblyReference.cache
+C:\Revature\cole-code\RockPaperScissorsLib\obj\Debug\net5.0\RockPaperScissorsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\cole-code\RockPaperScissorsLib\obj\Debug\net5.0\RockPaperScissorsLib.AssemblyInfoInputs.cache
+C:\Revature\cole-code\RockPaperScissorsLib\obj\Debug\net5.0\RockPaperScissorsLib.AssemblyInfo.cs
+C:\Revature\cole-code\RockPaperScissorsLib\obj\Debug\net5.0\RockPaperScissorsLib.csproj.CoreCompileInputs.cache
+C:\Revature\cole-code\RockPaperScissorsLib\bin\Debug\net5.0\RockPaperScissorsLib.deps.json
+C:\Revature\cole-code\RockPaperScissorsLib\bin\Debug\net5.0\RockPaperScissorsLib.dll
+C:\Revature\cole-code\RockPaperScissorsLib\bin\Debug\net5.0\ref\RockPaperScissorsLib.dll
+C:\Revature\cole-code\RockPaperScissorsLib\bin\Debug\net5.0\RockPaperScissorsLib.pdb
+C:\Revature\cole-code\RockPaperScissorsLib\obj\Debug\net5.0\RockPaperScissorsLib.dll
+C:\Revature\cole-code\RockPaperScissorsLib\obj\Debug\net5.0\ref\RockPaperScissorsLib.dll
+C:\Revature\cole-code\RockPaperScissorsLib\obj\Debug\net5.0\RockPaperScissorsLib.pdb

@@ -1,0 +1,16 @@
+C:\Revature\cole-code\csharp\bin\Debug\net5.0\csharp.exe
+C:\Revature\cole-code\csharp\bin\Debug\net5.0\csharp.deps.json
+C:\Revature\cole-code\csharp\bin\Debug\net5.0\csharp.runtimeconfig.json
+C:\Revature\cole-code\csharp\bin\Debug\net5.0\csharp.runtimeconfig.dev.json
+C:\Revature\cole-code\csharp\bin\Debug\net5.0\csharp.dll
+C:\Revature\cole-code\csharp\bin\Debug\net5.0\ref\csharp.dll
+C:\Revature\cole-code\csharp\bin\Debug\net5.0\csharp.pdb
+C:\Revature\cole-code\csharp\obj\Debug\net5.0\csharp.csprojAssemblyReference.cache
+C:\Revature\cole-code\csharp\obj\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\cole-code\csharp\obj\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+C:\Revature\cole-code\csharp\obj\Debug\net5.0\csharp.AssemblyInfo.cs
+C:\Revature\cole-code\csharp\obj\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+C:\Revature\cole-code\csharp\obj\Debug\net5.0\csharp.dll
+C:\Revature\cole-code\csharp\obj\Debug\net5.0\ref\csharp.dll
+C:\Revature\cole-code\csharp\obj\Debug\net5.0\csharp.pdb
+C:\Revature\cole-code\csharp\obj\Debug\net5.0\csharp.genruntimeconfig.cache
